@@ -1,8 +1,11 @@
 Markdown Examples
 ===
+# Markdown Examples
 
-# The largest heading
-## The second largest heading
+## Markdown Examples
+Makrdown Examples
+---
+
 ###### The 6th largest heading
 ####### 7th heading?
 
