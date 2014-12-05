@@ -34,3 +34,7 @@ wow\_great\_stuff
 
 [Visit GitHub](www.github.com)
 [Visit GitHub](https://www.github.com)
+
+- [ ] a task list item
+- [ ] list syntax required
+- [X] completed
