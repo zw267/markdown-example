@@ -33,3 +33,4 @@ wow\_great\_stuff
 3. Item 3
 
 [Visit GitHub](www.github.com)
+[Visit GitHub](https://www.github.com)
